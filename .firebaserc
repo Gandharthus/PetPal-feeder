@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "petpal-petfeeder": {
+      "hosting": {
+        "petpal": [
+          "petpal-petfeeder"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "petpal-petfeeder"
+  }
+}
